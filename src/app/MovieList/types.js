@@ -1,0 +1,2 @@
+export const GET_MOVIES = 'GET_MOVIES',
+  SELECT_MOVIE = 'SELECT_MOVIE';

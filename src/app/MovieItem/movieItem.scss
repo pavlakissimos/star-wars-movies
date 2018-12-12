@@ -1,0 +1,19 @@
+.movie-item {
+  &:hover {
+    cursor: pointer;
+    background-color: #f3f3f8;
+  }
+
+  &.active-item {
+    background-color: #f3f3f8;
+  }
+}
+
+.movie-item-episode,
+.movie-item-date {
+  color: lightslategray;
+}
+
+.movie-item-episode {
+  font-weight: 600;
+}
